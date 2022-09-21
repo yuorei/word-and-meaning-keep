@@ -20,7 +20,7 @@
 ## こだわりポイント
 ログインユーザーごとにwordを表示させたこと
 
-<img src="https://drive.google.com/uc?id=1PMJsuWOXSCZVrY7W0UC1fIu9uW4RN4fH">
-<img src="https://drive.google.com/uc?id=1f74mlXXil0uLY6R4hhDI_4IZBVg24W6e">
-<img src="https://drive.google.com/uc?id=1SZuIV_sqmBytzfMdgh1ElCJnBUSSqpkH">
-<img src="https://drive.google.com/uc?id=1XlyBqqQv6SoPn5z3llq7utSkZnHkDerC">
+<img width="200" src="https://drive.google.com/uc?id=1PMJsuWOXSCZVrY7W0UC1fIu9uW4RN4fH">
+<img width="200" src="https://drive.google.com/uc?id=1f74mlXXil0uLY6R4hhDI_4IZBVg24W6e">
+<img width="200" src="https://drive.google.com/uc?id=1SZuIV_sqmBytzfMdgh1ElCJnBUSSqpkH">
+<img width="200" src="https://drive.google.com/uc?id=1XlyBqqQv6SoPn5z3llq7utSkZnHkDerC">
