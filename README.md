@@ -4,7 +4,7 @@
 ## 技術スタック
 * golang
     * サーバー
-* mysql
+* MySQL
     * ユーザー情報とword情報
 * html
     * ホームページの表示
