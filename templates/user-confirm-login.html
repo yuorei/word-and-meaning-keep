@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>ログイン内容の確認</h2>
+  <form action="word-list-display" method="post">
+    <table>
+      <tr>
+        <td>アカウント名：</td>
+        <td>{{.account}}</td>
+      </tr>
+      <tr>
+        <td>パスワード：</td>
+        <td>{{.passwd}}</td>
+      </tr>
+    </table>
+    <input type="submit" value="ページを開く">
+  </form>
+</body>
+</html>

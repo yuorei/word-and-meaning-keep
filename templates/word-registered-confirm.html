@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>ログイン内容の確認</h2>
+  <form action="word-list-display" method="post">
+    <table>
+      <tr>
+        <td>登録した単語：</td>
+        <td>{{.word}}</td>
+      </tr>
+      <tr>
+        <td>登録した意味：</td>
+        <td>{{.meaning}}</td>
+      </tr>
+    </table>
+    <input type="submit" value="単語一覧">
+  </form>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>登録している単語</h2>
+  <form action="" method="post">
+    <table>
+      <tr>
+        <a href="user-login" >ログイン画面に戻る<br></a>
+        <a href="word-registered" >単語を登録する</a>
+        <p>上の段が単語 下の段が意味  </p>
+      </tr>
+      <tr>
+        {{range .word}}
+        <td>{{ . }}</td>
+        {{end}}
+      </tr>
+      <tr>
+        {{range .meaning}}
+        <td>{{ . }}</td>
+        {{end}}
+      </tr>
+    </table>
+  </form>
+</body>
+</html>
